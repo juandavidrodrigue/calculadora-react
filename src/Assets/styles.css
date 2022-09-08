@@ -54,7 +54,7 @@ body{
 
 .display span{
     font-size: 14px;
-    color: #888;
+    color: rgb(255, 255, 255);
 }
 
 button{
